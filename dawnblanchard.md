@@ -8,3 +8,4 @@ Subject: [github-for-developers-8] Class goals (#1)"
 This answer came from the following request:
 "Please tell us one thing you would like to learn in today's class!"
 Favorite color is green.
+Favorite color is definitely green.
